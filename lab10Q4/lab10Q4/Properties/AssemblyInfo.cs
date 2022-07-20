@@ -3,8 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
+// set of attributes. 
 [assembly: AssemblyTitle("lab10Q4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
